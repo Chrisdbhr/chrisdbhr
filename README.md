@@ -1,8 +1,11 @@
-![CHRISdbhr logo](https://github.com/Chrisdbhr/chrisdbhr.github.io/blob/master/apple-touch-icon-72x72.png?raw=true) 
 ### Hi there 👋
 - 🚀 I’m currently working with [Unity](https://unity3d.com/pt/unity/qa/lts-releases) 2019 LTS.
 - 🌱 I’m currently learning [Xamarim](https://dotnet.microsoft.com/apps/xamarin) and [Monogame](https://www.monogame.net).
 - 📫 How to reach me: [My discord server](https://chrisdbhr.github.io/discordlink)
+
+![CHRISdbhr logo](https://github.com/Chrisdbhr/chrisdbhr.github.io/blob/master/apple-touch-icon-72x72.png?raw=true) 
+*Logo of my [Youtube Channel](https://www.youtube.com/channel/UCIhtcO3lc2tC2GDnUxW-4KQ)*
+
 <!--
 **Chrisdbhr/chrisdbhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
