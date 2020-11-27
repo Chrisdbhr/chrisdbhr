@@ -6,5 +6,4 @@
   - [Discord](https://discordapp.com/channels/@me/203373041063821313/)
 
 ### My main projects
-- [Black Yeast](https://chrisdbhr.github.io/blackyeast) - Psychological horror game made with Unity
-- [Chris Jogos Digitais](https://www.youtube.com/channel/UCIhtcO3lc2tC2GDnUxW) - Creating entertainment and educational videos about game development. (PT-BR)
+- [Resultarias](https://chrisdbhr.github.io/resultarias) - Surrealist adventure game in development with Unity
