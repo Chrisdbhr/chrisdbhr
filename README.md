@@ -1,11 +1,11 @@
 ### Hi there 👋
-- 🚀 I’m currently working with [Unity](https://unity3d.com/pt/unity/qa/lts-releases) 2019 LTS and 2020
+- 🚀 I’m currently working with [Unity](https://unity3d.com/unity/qa/lts-releases) 2019 LTS and 2021 LTS
 - 📫 How to reach me: 
   - [Telegram](https://t.me/chrisdbhr)
   - [Discord](https://discordapp.com/channels/@me/203373041063821313/)
 
 ### My main projects
-- [Resultarias](https://chrisjogos.com/resultarias) - Surrealist adventure game in development with Unreal Engine
+- [Resultarias](https://chrisjogos.com/resultarias) - Surrealist adventure game in development with [Unity](https://unity3d.com)
 
 ### My statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisdbhr&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
