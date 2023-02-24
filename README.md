@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🚀 I’m currently working with [Unity](https://unity3d.com/unity/qa/lts-releases) 2019 LTS and 2021 LTS
+- 🚀 I’m currently working with [Unity](https://unity3d.com/unity/qa/lts-releases) 2021 LTS
 - 📫 How to reach me: 
   - [Telegram](https://t.me/chrisdbhr)
-  - [Discord](https://discordapp.com/channels/@me/203373041063821313/)
+  - Discord **Chris#1888**
 
 ### My main projects
 - [Resultarias](https://chrisjogos.com/resultarias) - Surrealist adventure game in development with [Unity](https://unity3d.com)
