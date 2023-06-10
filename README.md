@@ -2,7 +2,7 @@
 - 🚀 I’m currently working with [Unity](https://unity3d.com/unity/qa/lts-releases) 2021 and 2022 LTS
 - 📫 How to reach me: 
   - [Telegram](https://t.me/chrisdbhr)
-  - Discord **chrisdbhr*
+  - Discord **chrisdbhr**
 
 ### My main projects
 - [Resultarias](https://chrisjogos.com/resultarias) - Surrealist adventure game in development with [Unity](https://unity3d.com)
