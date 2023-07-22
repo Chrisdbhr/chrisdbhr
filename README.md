@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🚀 I’m currently working with [Unity](https://unity3d.com/unity/qa/lts-releases) 2021 and 2022 LTS
+### Hello there 👋
+- 🚀 I’m currently working with [Unity](https://unity3d.com/unity/qa/lts-releases) 2021 and 2022, always LTS versions.
 - 📫 How to reach me: 
   - [Telegram](https://t.me/chrisdbhr)
   - Discord **chrisdbhr**
