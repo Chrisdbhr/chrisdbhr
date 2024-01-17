@@ -8,7 +8,9 @@
   - Discord **chrisdbhr**
 
 ## My main projects
-### [Resultarias](https://chrisjogos.com/resultarias) 
+### [Resultarias](https://store.steampowered.com/app/2230030)
+[![Resultarias](https://raw.githubusercontent.com/Chrisdbhr/chrisdbhr/master/resultarias-git-wide.jpg)](https://store.steampowered.com/app/2230030) 
+
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2230030) 
 
 Surrealist adventure game in development with [Unity](https://unity3d.com)
