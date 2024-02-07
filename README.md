@@ -3,7 +3,7 @@
 
 ## Hello there 👋
 - 🚀 I’m currently working with [Unity](https://unity3d.com/unity/qa/lts-releases), always LTS versions.
-- 📖 Studying [Rust](https://rust-lang.org/) and [Flutter](https://flutter.dev/)
+- 📖 Studying [Rust](https://github.com/Chrisdbhr/utsuki-bot-in-rust) and [Flutter](https://flutter.dev/)
 - 📫 How to reach me: 
   - [Telegram](https://t.me/chrisdbhr)
   - Discord `chrisdbhr`
