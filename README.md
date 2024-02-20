@@ -12,7 +12,10 @@
 ### [Resultarias](https://store.steampowered.com/app/2230030)
 [![Resultarias](https://raw.githubusercontent.com/Chrisdbhr/chrisdbhr/master/resultarias-git-wide.jpg)](https://store.steampowered.com/app/2230030) 
 
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2230030) 
+[![Steam](https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2230030) 
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://chrisdbhr.itch.io/resultarias) 
+[![Gamejolt](https://img.shields.io/badge/Game%20Jolt-CCFF00?style=for-the-badge&logo=Game%20Jolt&logoColor=white)](https://gamejolt.com/games/resultarias/472865) 
+
 
 ### Surrealist adventure game in development with [Unity](https://unity3d.com). 
 *Resultarias* uses technologies like Reactive Programming with [UniRx](https://github.com/neuecc/UniRx), Localization with [Unity Localization Package](https://docs.unity3d.com/Packages/com.unity.localization@latest), [Analytics](https://unity.com/products/unity-analytics) and Webhooks for error handling and user behaviour analysis, [FMOD](https://www.fmod.com/) for advanced audio programming, my [CDK](https://github.com/chrisdbhr/CDK) Unity Extension scripts, [Facepunch Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) for Steam integration and multiplayer, between other technologies.
