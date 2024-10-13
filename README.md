@@ -2,8 +2,8 @@
 [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/channel/UCIhtcO3lc2tC2GDnUxW-4KQ) 
 
 ## Hello there 👋
-- 🚀 I’m currently working with [Unity](https://unity3d.com/unity/qa/lts-releases), always LTS versions.
-- 📫 How to reach me: 
+- I’m currently working with [Unity](https://unity3d.com/unity/qa/lts-releases) LTS version and studying the latest preview versions.
+- How to reach me: 
   - [Telegram](https://t.me/chrisdbhr)
   - Discord `chrisdbhr`
 
@@ -17,7 +17,7 @@
 
 
 ### Surrealist adventure game in development with [Unity](https://unity3d.com). 
-*Resultarias* uses technologies like Reactive Programming with [R3](https://github.com/Cysharp/R3), Localization with [Unity Localization Package](https://docs.unity3d.com/Packages/com.unity.localization@latest), [Analytics](https://unity.com/products/unity-analytics) and Webhooks for error handling and user behaviour analysis, [FMOD](https://www.fmod.com/) for advanced audio programming, my [CDK](https://github.com/chrisdbhr/CDK) Unity Extension scripts, [Facepunch Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) for Steam integration and multiplayer, between other technologies.
+*Resultarias* uses technologies like Reactive Programming with [R3](https://github.com/Cysharp/R3), Localization with [Unity Localization Package](https://docs.unity3d.com/Packages/com.unity.localization@latest), [Analytics](https://unity.com/products/unity-analytics) and Webhooks for error handling and user behaviour analysis, [FMOD](https://www.fmod.com/) for advanced audio programming, my [CDK](https://github.com/chrisdbhr/CDK) Unity Extension scripts, [Facepunch Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) for Steam integration and multiplayer, Unity Test Frameworks and CodeCoverage, between other technologies.
 
 It's source code isn't available but a bit portion of its code is made of this open source package that I created: [CDK](https://github.com/chrisdbhr/CDK)
 
