@@ -18,6 +18,6 @@
 
 
 ### Surrealist adventure game in development with [Unity](https://unity3d.com). 
-*Resultarias* uses technologies like Reactive Programming with [R3](https://github.com/Cysharp/R3), Localization with [Unity Localization Package](https://docs.unity3d.com/Packages/com.unity.localization@latest), [Analytics](https://unity.com/products/unity-analytics) and Webhooks for error handling and user behaviour analysis, [FMOD](https://www.fmod.com/) for advanced audio programming, my [CDK](https://github.com/chrisdbhr/CDK) Unity Extension scripts, [Facepunch Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) for Steam integration and multiplayer, Unity Test Frameworks and CodeCoverage, between other technologies.
+*Resultarias* uses technologies like Reactive Programming with [R3](https://github.com/Cysharp/R3), Localization with [Unity Localization Package](https://docs.unity3d.com/Packages/com.unity.localization@latest), [Analytics](https://unity.com/products/unity-analytics) and Webhooks for error handling and user behaviour analysis, [FMOD](https://www.fmod.com/) for advanced audio programming, my [Enigma Core](https://github.com/EnigmaticComma/EnigmaCore) Unity Extension scripts, [Facepunch Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) for Steam integration and multiplayer, Unity Test Frameworks and CodeCoverage, between other technologies.
 
-It's source code isn't available but a bit portion of its code is made of this open source package that I created: [CDK](https://github.com/chrisdbhr/CDK)
+It's source code isn't available but a bit portion of its code is made of this open source package that I created: [Enigma Core](https://github.com/EnigmaticComma/EnigmaCore)
